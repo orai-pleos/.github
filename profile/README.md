@@ -1,7 +1,7 @@
 # 닿다 (DAHTA)
 
 <p align="center">
-  <img src="https://github.com/orai-pleos/dahta/tree/master/docs/image/dahta_logo_intro_v2.gif" alt="닿다 DAHTA 로고 인트로" width="480" />
+  <img src="https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/dahta_logo_intro_v2.gif" alt="닿다 DAHTA 로고 인트로" width="480" />
 </p>
 
 택시 기사님을 위한 Pleos Connect 차량 앱
@@ -14,7 +14,7 @@
 
 ## 어떤 서비스인가
 
-택시 기사님은 운전하면서 손님 확인, 목적지 입력, 안전 안내, 하차 안내를 함께 해야 합니다. 외국인 손님이거나 천천히 안내해야 하는 손님이면 부담이 더 커집니다.
+택시 기사님은 운전하면서 손님 확인, 목적지 입력, 안전 안내, 하차 안내를 함께 해야 합니다. 외국인 손님이거나 천천히 안내해야 하는 손님이면 부��[...]
 
 닿다는 이 과정을 **기사님이 화면을 누르지 않아도** 진행되도록 만듭니다.
 
@@ -22,11 +22,11 @@
 
 ### **택시를 부르는 일은 쉬워졌습니다. 탑승한 다음은 어떨까요?**
 
-서울시는 앱 사용이 어려운 시민을 위해 **120 동행콜택시**를 도입했습니다. 서비스는 2025년 7월 시작 이후 약 1년 만에 누적 운행 **6만 3천 건**을 돌파했습니다.
+서울시는 앱 사용이 어려운 시민을 위해 **120 동행콜택시**를 도입했습니다. 서비스는 2025년 7월 시작 이후 약 1년 만에 누적 운행 **6만 3천 건**을 돌파��[...]
 
 하지만 호출의 문턱이 낮아져도 **탑승 이후의 소통과 안내는 여전히 기사님의 몫**입니다.
 
-![서비스 소개](https://github.com/orai-pleos/dahta/tree/master/docs/image/1_service_guide.png)
+![서비스 소개](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/1_service_guide.png)
 
 ### **닿다(DAHTA)는 탑승 이후의 불편에 주목합니다**
 
@@ -44,26 +44,26 @@
 - [서울특별시 — 120 동행콜택시 운영 및 이용 실적](https://www.seoul.go.kr/news/news_report.do?nttNo=464118)
 - [서울특별시 — 연령별 택시 이용 방식 및 동행콜택시 도입 배경](https://news.seoul.go.kr/traffic/archives/514632)
 
-![언어](https://github.com/orai-pleos/dahta/tree/master/docs/image/2_language.png)
+![언어](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/2_language.png)
 
-![서비스](https://github.com/orai-pleos/dahta/tree/master/docs/image/3_service.png)
+![서비스](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/3_service.png)
 
-![시나리오 안내](https://github.com/orai-pleos/dahta/tree/master/docs/image/4_scenario_guide.png)
+![시나리오 안내](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/4_scenario_guide.png)
 
 ## 시나리오 흐름
 
-![흐름](https://github.com/orai-pleos/dahta/tree/master/docs/image/5_flow.png)
+![흐름](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/5_flow.png)
 
-![흐름 2](https://github.com/orai-pleos/dahta/tree/master/docs/image/5-1_flow.png)
+![흐름 2](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/5-1_flow.png)
 
 
 ## 주요 시나리오 화면
 
 | | |
 | --- | --- |
-| ![① 운행 시작](https://github.com/orai-pleos/dahta/tree/master/docs/image/01_main.png)<br>⓪ 운행 시작 — 메인 화면, 「운행 시작하기」와 배려 모드 | ![② 손님 마중](https://github.com/orai-pleos/dahta/tree/master/docs/image/02_pickup.png)<br>② 손님 마중 — 아일랜드 화살표가 탑승 지점을 가리킴 |
-| ![③ 탑승 · 목적지](https://github.com/orai-pleos/dahta/tree/master/docs/image/03_destination_ko.png)<br>③ 탑승 · 목적지 — 한국어 손님 "서울대병원 가 주세요" | ![③-① 외국어 손님](https://github.com/orai-pleos/dahta/tree/master/docs/image/04_destination_en.png)<br>③ 외국어 손님 — 한국어 뜻은 크게, 원문은 작게 |
-| ![④ 도착](https://github.com/orai-pleos/dahta/tree/master/docs/image/05_arrived.png)<br>⑤ 도착 — 이번 운행 거리 · 시간 · 결제 안내 | ![⑤ 운행 종료](https://github.com/orai-pleos/dahta/tree/master/docs/image/06_summary.png)<br>⑥ 운행 종료 — 오늘 운행 요약 (한 번만 표시) |
+| ![① 운행 시작](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/01_main.png)<br>⓪ 운행 시작 — 메인 화면, 「운행 시작하기」와 배려 모드 | ![② 손님 마중](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/02_pickup.png)<br>② 손님 마중 — 출발 · 도착 위치 안내 |
+| ![③ 탑승 · 목적지](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/03_destination_ko.png)<br>③ 탑승 · 목적지 — 한국어 손님 "서울대병원 가 주세요" | ![③-영어 목적지](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/03_destination_en.png)<br>③-영어 목적지 — 영어 손님 안내 |
+| ![④ 도착](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/05_arrived.png)<br>⑤ 도착 — 이번 운행 거리 · 시간 · 결제 안내 | ![⑤ 운행 종료](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/06_end.png)<br>⑥ 운행 종료 — 도착 · 종료 화면 |
 
 
 ## 언어 시나리오
@@ -105,7 +105,7 @@
 
 ## 배려 모드
 
-**기사님과 손님 모두를 위한 모드**입니다. 화면을 잘 못 보거나 소리를 천천히 들어야 하는 기사님은 글씨가 크고 고를 것이 적은 화면을, 천천히 안내가 필요한 손님은 느린 말하기와 하차 안내를 받습니다.
+**기사님과 손님 모두를 위한 모드**입니다. 화면을 잘 못 보거나 소리를 천천히 들어야 하는 기사님은 글씨가 크고 고를 것이 적은 화면을, 천천히 안��[...]
 
 | 항목 | 기본 | 배려 모드 ON |
 | --- | --- | --- |
