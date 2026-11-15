@@ -11,11 +11,6 @@
 [디자인 (Figma)](https://www.figma.com/design/8bvl8era18Ni0CztkeUpMa/DAHTA?node-id=39670-2823&t=LVnRIMttq7YjhKkS-1)
 
 
-## 어떤 서비스인가
-
-택시 기사님은 운전하면서 손님 확인, 목적지 입력, 안전 안내, 하차 안내를 함께 해야 합니다. 외국인 손님이거나 천천히 안내해야 하는 손님이면 부담이 더 커집니다.
-
-닿다는 이 과정을 **기사님이 화면을 누르지 않아도** 진행되도록 만듭니다.
 
 ## 01. 서비스 **소개**
 
@@ -60,9 +55,9 @@
 
 | | |
 | --- | --- |
-| ![① 운행 시작](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/01_main.png)<br>⓪ 운행 시작 — 메인 화면, 「운행 시작하기」와 배려 모드 | ![② 손님 마중](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/02_pickup.png)<br>② 손님 마중 — 출발 · 도착 위치 안내 |
-| ![③ 탑승 · 목적지](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/03_destination_ko.png)<br>③ 탑승 · 목적지 — 한국어 손님 "서울대병원 가 주세요" | ![③-영어 목적지](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/03_destination_en.png)<br>③-영어 목적지 — 영어 손님 안내 |
-| ![④ 도착](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/05_arrived.png)<br>⑤ 도착 — 이번 운행 거리 · 시간 · 결제 안내 | ![⑤ 운행 종료](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/06_end.png)<br>⑥ 운행 종료 — 도착 · 종료 화면 |
+| ![① 운행 시작](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/01_main.png)<br>① 운행 시작 — 메인 화면, 「운행 시작하기」와 배려 모드 | ![② 손님 마중](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/02_pickup.png)<br>② 손님 마중 — 출발 · 도착 위치 안내 |
+| ![③ 탑승 · 목적지](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/03_destination_ko.png)<br>③ 탑승 · 목적지 — 한국어 손님 "서울대병원 가 주세요" | ![③-영어 목적지](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/04_destination_en.png)<br>③-① 영어 목적지 — 영어 손님 안내 |
+| ![④ 도착](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/05_arrived.png)<br>④ 도착 — 이번 운행 거리 · 시간 · 결제 안내 | ![⑤ 운행 종료](https://raw.githubusercontent.com/orai-pleos/dahta/master/docs/image/06_summary.png)<br>⑤ 운행 종료 — 도착 · 종료 화면 |
 
 
 ## 언어 시나리오
