@@ -1,7 +1,7 @@
 # 닿다 (DAHTA)
 
 <p align="center">
-  <img src="docs/image/dahta_logo_intro_v2.gif" alt="닿다 DAHTA 로고 인트로" width="480" />
+  <img src="https://github.com/orai-pleos/dahta/tree/master/docs/image/dahta_logo_intro_v2.gif" alt="닿다 DAHTA 로고 인트로" width="480" />
 </p>
 
 택시 기사님을 위한 Pleos Connect 차량 앱
@@ -26,7 +26,7 @@
 
 하지만 호출의 문턱이 낮아져도 **탑승 이후의 소통과 안내는 여전히 기사님의 몫**입니다.
 
-![서비스 소개](docs/image/1_service_guide.png)
+![서비스 소개](https://github.com/orai-pleos/dahta/tree/master/docs/image/1_service_guide.png)
 
 ### **닿다(DAHTA)는 탑승 이후의 불편에 주목합니다**
 
@@ -44,26 +44,26 @@
 - [서울특별시 — 120 동행콜택시 운영 및 이용 실적](https://www.seoul.go.kr/news/news_report.do?nttNo=464118)
 - [서울특별시 — 연령별 택시 이용 방식 및 동행콜택시 도입 배경](https://news.seoul.go.kr/traffic/archives/514632)
 
-![언어](docs/image/2_language.png)
+![언어](https://github.com/orai-pleos/dahta/tree/master/docs/image/2_language.png)
 
-![서비스](docs/image/3_service.png)
+![서비스](https://github.com/orai-pleos/dahta/tree/master/docs/image/3_service.png)
 
-![시나리오 안내](docs/image/4_scenario_guide.png)
+![시나리오 안내](https://github.com/orai-pleos/dahta/tree/master/docs/image/4_scenario_guide.png)
 
 ## 시나리오 흐름
 
-![흐름](docs/image/5_flow.png)
+![흐름](https://github.com/orai-pleos/dahta/tree/master/docs/image/5_flow.png)
 
-![흐름 2](docs/image/5-1_flow.png)
+![흐름 2](https://github.com/orai-pleos/dahta/tree/master/docs/image/5-1_flow.png)
 
 
 ## 주요 시나리오 화면
 
 | | |
 | --- | --- |
-| ![① 운행 시작](docs/image/01_main.png)<br>⓪ 운행 시작 — 메인 화면, 「운행 시작하기」와 배려 모드 | ![② 손님 마중](docs/image/02_pickup.png)<br>② 손님 마중 — 아일랜드 화살표가 탑승 지점을 가리킴 |
-| ![③ 탑승 · 목적지](docs/image/03_destination_ko.png)<br>③ 탑승 · 목적지 — 한국어 손님 "서울대병원 가 주세요" | ![③-① 외국어 손님](docs/image/04_destination_en.png)<br>③ 외국어 손님 — 한국어 뜻은 크게, 원문은 작게 |
-| ![④ 도착](docs/image/05_arrived.png)<br>⑤ 도착 — 이번 운행 거리 · 시간 · 결제 안내 | ![⑤ 운행 종료](docs/image/06_summary.png)<br>⑥ 운행 종료 — 오늘 운행 요약 (한 번만 표시) |
+| ![① 운행 시작](https://github.com/orai-pleos/dahta/tree/master/docs/image/01_main.png)<br>⓪ 운행 시작 — 메인 화면, 「운행 시작하기」와 배려 모드 | ![② 손님 마중](https://github.com/orai-pleos/dahta/tree/master/docs/image/02_pickup.png)<br>② 손님 마중 — 아일랜드 화살표가 탑승 지점을 가리킴 |
+| ![③ 탑승 · 목적지](https://github.com/orai-pleos/dahta/tree/master/docs/image/03_destination_ko.png)<br>③ 탑승 · 목적지 — 한국어 손님 "서울대병원 가 주세요" | ![③-① 외국어 손님](https://github.com/orai-pleos/dahta/tree/master/docs/image/04_destination_en.png)<br>③ 외국어 손님 — 한국어 뜻은 크게, 원문은 작게 |
+| ![④ 도착](https://github.com/orai-pleos/dahta/tree/master/docs/image/05_arrived.png)<br>⑤ 도착 — 이번 운행 거리 · 시간 · 결제 안내 | ![⑤ 운행 종료](https://github.com/orai-pleos/dahta/tree/master/docs/image/06_summary.png)<br>⑥ 운행 종료 — 오늘 운행 요약 (한 번만 표시) |
 
 
 ## 언어 시나리오
